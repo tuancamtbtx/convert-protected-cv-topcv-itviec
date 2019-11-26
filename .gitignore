@@ -1,0 +1,11 @@
+node_modules/
+.idea/
+dist/
+public/pdf-error/
+public/pdf-hides/*.pdf
+public/pdf-files/*.pdf
+public/pdf-uploads/*.pdf
+src/pdf-uploads/*.pdf
+public/images/*.png
+backup/
+hummus-error.log
