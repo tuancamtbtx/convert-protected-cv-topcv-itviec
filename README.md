@@ -1,4 +1,8 @@
-# Tungtung authentication API
+# hide_info_user_cv
+
+## Description: 
+
+ Hide  infomation on CV for HR Company
 
 Packages:
 * jsonwebtoken
