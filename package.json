@@ -20,7 +20,7 @@
     "cors": "^2.8.4",
     "email-regex": "^2.0.0",
     "es6-module-loader": "^0.17.11",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "hummus": "^1.0.83",
     "hummus-recipe": "^1.5.1",
     "image-size": "^0.6.2",
